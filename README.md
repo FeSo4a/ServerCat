@@ -30,5 +30,5 @@ _ServerCat_ 兼容 _Minecraft:Java Edtion 1.20_ 至 _Minecraft:Java Edtion 1.21.
 [@Xinghe_LOVE](#114514 "该用户谢绝了超链接到他的bilibili主页")  
 该用户提供了代码修改与完善方案  
 
-[@发烧七彩布洛芬](#114514 "该用户没有回复是否超链接到他的bilibili主页")  
+[@发烧七彩布洛芬](https://space.bilibili.com/2142809970 "点击前往该用户的bilibili主页")  
 该用户提供了创作灵感  
